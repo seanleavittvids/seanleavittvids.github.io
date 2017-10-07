@@ -12,15 +12,15 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 11 Dec 2015 18:45:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Oct 2017 19:35:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.4.11</generator>
 	<item>
 		<title>Thanks for checking out my portfolio</title>
-		<link>/2014/09/09/hello-world/</link>
-		<comments>/2014/09/09/hello-world/#respond</comments>
+		<link>/2014/09/09/welcome/</link>
+		<comments>/2014/09/09/welcome/#respond</comments>
 		<pubDate>Tue, 09 Sep 2014 14:59:56 +0000</pubDate>
 		<dc:creator><![CDATA[tanis666@gmail.com]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -29,7 +29,7 @@
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/09/09/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>/2014/09/09/welcome/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

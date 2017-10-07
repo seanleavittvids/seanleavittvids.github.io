@@ -6,9 +6,9 @@
 	
 	>
 <channel>
-	<title>Comments on: Thanks for checking out my portfolio</title>
-	<atom:link href="http://localhost/2014/09/09/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2014/09/09/hello-world/</link>
+	<title>Comments on: Resumé</title>
+	<atom:link href="http://localhost/resume/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate></lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
